@@ -1,4 +1,4 @@
-# Hi, I'm Matthew 👋
+# Hello, I am Matthew 👋
 
 BAIS student at the University of South Florida building AI automations for healthcare and small businesses.
 
